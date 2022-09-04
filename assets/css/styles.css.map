@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";",
+		"@media (max-device-width: 320px) {\n    h1 {\n        font-size: 1.8em;\n    }\n}\n@media (max-device-width: 370px) {\n    h1 {\n        font-size: 2.2em;\n    }\n}\n@media (min-device-width: 370px) {\n    h1 {\n        font-size: 2.2em;\n    }\n}\n@media (min-device-width: 900px) {\n    h1 {\n        font-size: 5.5em;\n    }\n}\nbody { padding:2em; font : 100%/1.4 'Helvetica Neue', arial, helvetica, helve, sans-serif; }\n/* h1 { font-size:2.5em; padding:0 0 .5em 0; } */\nh2 { font-size:1.5em; }\n.header { padding:2em 0; }\n.table { padding: 2em; columns: 2; }"
+	],
+	"names": [],
+	"mappings": "ACAA,MAAM,0BACF,GAAA,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB,EAAA;;AAEL,MAAM,0BACF,GAAA,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB,EAAA;;AAEL,MAAM,0BACF,GAAA,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB,EAAA;;AAEL,MAAM,0BACF,GAAA,AAAA,EAAE,CAAC,EACC,SAAS,EAAE,KAAK,GACnB,EAAA;;AAEL,AAAA,IAAI,CAAC,EAAE,OAAO,EAAC,GAAG,EAAE,IAAI,EAAG,8DAA8D,GAAI;;AAC7F,iDAAiD;AACjD,AAAA,EAAE,CAAC,EAAE,SAAS,EAAC,KAAK,GAAI;;AACxB,AAAA,OAAO,CAAC,EAAE,OAAO,EAAC,KAAK,GAAI;;AAC3B,AAAA,MAAM,CAAC,EAAE,OAAO,EAAE,GAAG,EAAE,OAAO,EAAE,CAAC,GAAI"
+}

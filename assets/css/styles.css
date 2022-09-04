@@ -1,0 +1,18 @@
+@media (max-device-width: 320px) { h1 { font-size: 1.8em; } }
+
+@media (max-device-width: 370px) { h1 { font-size: 2.2em; } }
+
+@media (min-device-width: 370px) { h1 { font-size: 2.2em; } }
+
+@media (min-device-width: 900px) { h1 { font-size: 5.5em; } }
+
+body { padding: 2em; font: 100%/1.4 'Helvetica Neue', arial, helvetica, helve, sans-serif; }
+
+/* h1 { font-size:2.5em; padding:0 0 .5em 0; } */
+h2 { font-size: 1.5em; }
+
+.header { padding: 2em 0; }
+
+.table { padding: 2em; columns: 2; }
+
+/*# sourceMappingURL=styles.css.map */
